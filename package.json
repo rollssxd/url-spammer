@@ -1,0 +1,11 @@
+{
+  "name": "url-spammer",
+  "version": "0.0.1",
+  "description": "Url spamlar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Catcher",
+  "license": "ISC"
+}
